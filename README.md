@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Gauri Kasar</h1>
 <h3 align="center">Passionate Natural Language Processing, Deep Learning and Software Engineer | Working towards eliminating Hallucinations and studying different ways of mitigating it </h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/wQ8vfEvvS5sAAAAC/flossing-fortnite-dance.gif">
-- 🔭 I’m currently working on **Methods to mitigate hallucinations and designing efficient LLM prompts**
 
-- 🌱 I’m currently learning **Robotics, Deep Learning, C++, Software Development**
+- 🔭 Currently working on **Methods to mitigate hallucinations and designing efficient LLM prompts**
 
-- 📫 How to reach me **gkasar@pdx.edu**
+- 💻 I’m currently learning **GPU optimzations, deployment, Deep Learning, C++, Software Development**
+
+- ✉ How to reach me **gkasar@pdx.edu**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1NwJEcKXicznjaCAuOWgMCVE3G_6sXTqG?usp=sharing)
 
