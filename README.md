@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gauri Kasar</h1>
 <h3 align="center">Passionate Natural Language Processing, Deep Learning and Software Engineer | Working towards eliminating Hallucinations and studying different ways of mitigating it </h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">
+<iframe align="right" src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="400"></iframe>
 
 - 🔭 I’m currently working on **Methods to mitigate hallucinations and designing efficient LLM prompts**
 
