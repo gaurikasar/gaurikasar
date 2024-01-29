@@ -7,6 +7,8 @@
 
 - 💻 I’m currently learning **GPU optimzations, deployment, Deep Learning, C++, Software Development**
 
+- 😎 Proficient in Java, Python, Javascript, and different frameworks like Angular.JS, Node.JS, React.JS, Flask, Django, Spring Boot.
+
 - ✉ How to reach me **gkasar@pdx.edu**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1NwJEcKXicznjaCAuOWgMCVE3G_6sXTqG?usp=sharing)
