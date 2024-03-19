@@ -9,13 +9,13 @@
 
 - 😎 Proficient in Java, Python, Javascript, and different frameworks like Angular.JS, Node.JS, React.JS, Flask, Django, Spring Boot.
 
-- ✉ How to reach me **gkasar@pdx.edu**
+- ✉ How to reach me **gaurikasar333@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1NwJEcKXicznjaCAuOWgMCVE3G_6sXTqG?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gkasar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="p2paul" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gaurikasar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="p2paul" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
